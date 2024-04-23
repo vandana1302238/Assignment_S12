@@ -40,5 +40,28 @@ Output images
     <img src="results/60.png" alt="centered image" />
 </p>
 
+<p align="center">
+    <img src="results/66.png" alt="centered image" />
+</p>
+<p align="center">
+    <img src="results/00105.png" alt="centered image" />
+</p>
+<p align="center">
+    <img src="results/0025.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0027.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0029.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0031.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0127.png" alt="centered image" />
+</p>
+<p align="center">
+    <img src="results/0138.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0380.png" alt="centered image" />
+</p><p align="center">
+    <img src="results/0610.png" alt="centered image" />
 
 
