@@ -2,7 +2,7 @@
 
 # Problem Statement
 To train a custom YOLOV3 model. Here, I have chosen to detect dent and scratches in a car. So the annotations have been done using the given tool and created in yolov3 format.
-the total number of classes are 2.
+the total number of classes are 2. its trained for 500 epochs.
 
 # File Structure
 
@@ -34,5 +34,11 @@ Output graphs
 <p align="center">
     <img src="images/results.png" alt="centered image" />
 </p>
+
+Output images
+<p align="center">
+    <img src="results/60.png" alt="centered image" />
+</p>
+
 
 
